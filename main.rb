@@ -1,0 +1,2 @@
+require 'redcarpet'
+require 'prawn'
