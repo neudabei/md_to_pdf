@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require 'redcarpet'
 require 'wicked_pdf'
 require 'pry'
